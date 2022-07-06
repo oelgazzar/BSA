@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="post_lt_hand_rect">
+        <item>329</item>
+        <item>308</item>
+        <item>45</item>
+        <item>54</item>
+    </integer-array>
+    <integer-array name="post_lt_forearm_rect">
+        <item>358</item>
+        <item>239</item>
+        <item>61</item>
+        <item>76</item>
+    </integer-array>
+    <integer-array name="post_lt_arm_rect">
+        <item>392</item>
+        <item>142</item>
+        <item>47</item>
+        <item>107</item>
+    </integer-array>
+    <integer-array name="upper_back_rect">
+        <item>414</item>
+        <item>100</item>
+        <item>171</item>
+        <item>97</item>
+    </integer-array>
+    <integer-array name="lower_back_rect">
+        <item>414</item>
+        <item>197</item>
+        <item>170</item>
+        <item>87</item>
+    </integer-array>
+    <integer-array name="post_rt_arm_rect">
+        <item>557</item>
+        <item>141</item>
+        <item>41</item>
+        <item>102</item>
+    </integer-array>
+    <integer-array name="post_rt_forearm_rect">
+        <item>568</item>
+        <item>234</item>
+        <item>59</item>
+        <item>85</item>
+    </integer-array>
+    <integer-array name="post_rt_hand_rect">
+        <item>608</item>
+        <item>313</item>
+        <item>45</item>
+        <item>54</item>
+    </integer-array>
+    <integer-array name="post_neck_rect">
+        <item>477</item>
+        <item>83</item>
+        <item>46</item>
+        <item>21</item>
+    </integer-array>
+    <integer-array name="post_head_rect">
+        <item>463</item>
+        <item>22</item>
+        <item>73</item>
+        <item>61</item>
+    </integer-array>
+    <integer-array name="lt_buttock_rect">
+        <item>429</item>
+        <item>282</item>
+        <item>66</item>
+        <item>77</item>
+    </integer-array>
+    <integer-array name="rt_buttock_rect">
+        <item>495</item>
+        <item>283</item>
+        <item>68</item>
+        <item>75</item>
+    </integer-array>
+    <integer-array name="post_rt_thigh_rect">
+        <item>493</item>
+        <item>357</item>
+        <item>70</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="post_lt_thigh_rect">
+        <item>425</item>
+        <item>359</item>
+        <item>69</item>
+        <item>95</item>
+    </integer-array>
+    <integer-array name="post_rt_leg_rect">
+        <item>496</item>
+        <item>455</item>
+        <item>44</item>
+        <item>93</item>
+    </integer-array>
+    <integer-array name="post_lt_leg_rect">
+        <item>447</item>
+        <item>454</item>
+        <item>46</item>
+        <item>92</item>
+    </integer-array>
+    <integer-array name="post_rt_foot_rect">
+        <item>497</item>
+        <item>543</item>
+        <item>34</item>
+        <item>79</item>
+    </integer-array>
+    <integer-array name="post_lt_foot_rect">
+        <item>449</item>
+        <item>542</item>
+        <item>39</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="ant_head_rect">
+        <item>122</item>
+        <item>26</item>
+        <item>77</item>
+        <item>84</item>
+    </integer-array>
+    <integer-array name="ant_neck_rect">
+        <item>136</item>
+        <item>99</item>
+        <item>54</item>
+        <item>35</item>
+    </integer-array>
+    <integer-array name="chest_rect">
+        <item>84</item>
+        <item>115</item>
+        <item>155</item>
+        <item>90</item>
+    </integer-array>
+    <integer-array name="abdomen_rect">
+        <item>84</item>
+        <item>208</item>
+        <item>155</item>
+        <item>121</item>
+    </integer-array>
+    <integer-array name="ant_lt_arm_rect">
+        <item>218</item>
+        <item>143</item>
+        <item>39</item>
+        <item>99</item>
+    </integer-array>
+    <integer-array name="ant_lt_forearm_rect">
+        <item>231</item>
+        <item>231</item>
+        <item>56</item>
+        <item>85</item>
+    </integer-array>
+    <integer-array name="ant_lt_hand_rect">
+        <item>270</item>
+        <item>310</item>
+        <item>47</item>
+        <item>54</item>
+    </integer-array>
+    <integer-array name="ant_rt_arm_rect">
+        <item>67</item>
+        <item>143</item>
+        <item>33</item>
+        <item>97</item>
+    </integer-array>
+    <integer-array name="ant_rt_forearm_rect">
+        <item>44</item>
+        <item>231</item>
+        <item>47</item>
+        <item>80</item>
+    </integer-array>
+    <integer-array name="ant_rt_hand_rect">
+        <item>12</item>
+        <item>305</item>
+        <item>48</item>
+        <item>59</item>
+    </integer-array>
+    <integer-array name="perineum_rect">
+        <item>148</item>
+        <item>329</item>
+        <item>26</item>
+        <item>33</item>
+    </integer-array>
+    <integer-array name="ant_lt_thigh_rect">
+        <item>161</item>
+        <item>287</item>
+        <item>60</item>
+        <item>165</item>
+    </integer-array>
+    <integer-array name="ant_lt_leg_rect">
+        <item>164</item>
+        <item>453</item>
+        <item>42</item>
+        <item>103</item>
+    </integer-array>
+    <integer-array name="ant_rt_thigh_rect">
+        <item>98</item>
+        <item>288</item>
+        <item>60</item>
+        <item>165</item>
+    </integer-array>
+    <integer-array name="ant_rt_leg_rect">
+        <item>115</item>
+        <item>454</item>
+        <item>41</item>
+        <item>101</item>
+    </integer-array>
+    <integer-array name="ant_lt_foot_rect">
+        <item>168</item>
+        <item>555</item>
+        <item>35</item>
+        <item>67</item>
+    </integer-array>
+    <integer-array name="ant_rt_foot_rect">
+        <item>123</item>
+        <item>555</item>
+        <item>35</item>
+        <item>67</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ant_head">
+        <item>ant_head</item>
+        <item>@drawable/ant_head</item>
+        <item>@array/ant_head_rect</item>
+        <item>@array/ant_head_surface_area</item>
+    </array>
+    <array name="post_head">
+        <item>post_head</item>
+        <item>@drawable/post_head</item>
+        <item>@array/post_head_rect</item>
+        <item>@array/post_head_surface_area</item>
+    </array>
+    <array name="ant_neck">
+        <item>ant_neck</item>
+        <item>@drawable/ant_neck</item>
+        <item>@array/ant_neck_rect</item>
+        <item>@array/ant_neck_surface_area</item>
+    </array>
+    <array name="post_neck">
+        <item>post_neck</item>
+        <item>@drawable/post_neck</item>
+        <item>@array/post_neck_rect</item>
+        <item>@array/post_neck_surface_area</item>
+    </array>
+    <array name="abdomen">
+        <item>abdomen</item>
+        <item>@drawable/abdomen</item>
+        <item>@array/abdomen_rect</item>
+        <item>@array/abdomen_surface_area</item>
+    </array>
+    <array name="chest">
+        <item>chest</item>
+        <item>@drawable/chest</item>
+        <item>@array/chest_rect</item>
+        <item>@array/chest_surface_area</item>
+    </array>
+    <array name="upper_back">
+        <item>upper_back</item>
+        <item>@drawable/upper_back</item>
+        <item>@array/upper_back_rect</item>
+        <item>@array/upper_back_surface_area</item>
+    </array>
+    <array name="lower_back">
+        <item>lower_back</item>
+        <item>@drawable/lower_back</item>
+        <item>@array/lower_back_rect</item>
+        <item>@array/lower_back_surface_area</item>
+    </array>
+    <array name="perineum">
+        <item>perineum</item>
+        <item>@drawable/perineum</item>
+        <item>@array/perineum_rect</item>
+        <item>@array/perineum_surface_area</item>
+    </array>
+    <array name="lt_buttock">
+        <item>lt_buttock</item>
+        <item>@drawable/lt_buttock</item>
+        <item>@array/lt_buttock_rect</item>
+        <item>@array/lt_buttock_surface_area</item>
+    </array>
+    <array name="rt_buttock">
+        <item>rt_buttock</item>
+        <item>@drawable/rt_buttock</item>
+        <item>@array/rt_buttock_rect</item>
+        <item>@array/rt_buttock_surface_area</item>
+    </array>
+    <array name="post_lt_arm">
+        <item>post_lt_arm</item>
+        <item>@drawable/post_lt_arm</item>
+        <item>@array/post_lt_arm_rect</item>
+        <item>@array/post_lt_arm_surface_area</item>
+    </array>
+    <array name="post_rt_arm">
+        <item>post_rt_arm</item>
+        <item>@drawable/post_rt_arm</item>
+        <item>@array/post_rt_arm_rect</item>
+        <item>@array/post_rt_arm_surface_area</item>
+    </array>
+    <array name="ant_lt_arm">
+        <item>ant_lt_arm</item>
+        <item>@drawable/ant_lt_arm</item>
+        <item>@array/ant_lt_arm_rect</item>
+        <item>@array/ant_lt_arm_surface_area</item>
+    </array>
+    <array name="ant_rt_arm">
+        <item>ant_rt_arm</item>
+        <item>@drawable/ant_rt_arm</item>
+        <item>@array/ant_rt_arm_rect</item>
+        <item>@array/ant_rt_arm_surface_area</item>
+    </array>
+    <array name="ant_rt_forearm">
+        <item>ant_rt_forearm</item>
+        <item>@drawable/ant_rt_forearm</item>
+        <item>@array/ant_rt_forearm_rect</item>
+        <item>@array/ant_rt_forearm_surface_area</item>
+    </array>
+    <array name="post_lt_forearm">
+        <item>post_lt_forearm</item>
+        <item>@drawable/post_lt_forearm</item>
+        <item>@array/post_lt_forearm_rect</item>
+        <item>@array/post_lt_forearm_surface_area</item>
+    </array>
+    <array name="post_rt_forearm">
+        <item>post_rt_forearm</item>
+        <item>@drawable/post_rt_forearm</item>
+        <item>@array/post_rt_forearm_rect</item>
+        <item>@array/post_rt_forearm_surface_area</item>
+    </array>
+    <array name="ant_lt_forearm">
+        <item>ant_lt_forearm</item>
+        <item>@drawable/ant_lt_forearm</item>
+        <item>@array/ant_lt_forearm_rect</item>
+        <item>@array/ant_lt_forearm_surface_area</item>
+    </array>
+    <array name="ant_lt_hand">
+        <item>ant_lt_hand</item>
+        <item>@drawable/ant_lt_hand</item>
+        <item>@array/ant_lt_hand_rect</item>
+        <item>@array/ant_lt_hand_surface_area</item>
+    </array>
+    <array name="post_lt_hand">
+        <item>post_lt_hand</item>
+        <item>@drawable/post_lt_hand</item>
+        <item>@array/post_lt_hand_rect</item>
+        <item>@array/post_lt_hand_surface_area</item>
+    </array>
+    <array name="post_rt_hand">
+        <item>post_rt_hand</item>
+        <item>@drawable/post_rt_hand</item>
+        <item>@array/post_rt_hand_rect</item>
+        <item>@array/post_rt_hand_surface_area</item>
+    </array>
+    <array name="ant_rt_hand">
+        <item>ant_rt_hand</item>
+        <item>@drawable/ant_rt_hand</item>
+        <item>@array/ant_rt_hand_rect</item>
+        <item>@array/ant_rt_hand_surface_area</item>
+    </array>
+    <array name="post_rt_thigh">
+        <item>post_rt_thigh</item>
+        <item>@drawable/post_rt_thigh</item>
+        <item>@array/post_rt_thigh_rect</item>
+        <item>@array/post_rt_thigh_surface_area</item>
+    </array>
+    <array name="post_lt_thigh">
+        <item>post_lt_thigh</item>
+        <item>@drawable/post_lt_thigh</item>
+        <item>@array/post_lt_thigh_rect</item>
+        <item>@array/post_lt_thigh_surface_area</item>
+    </array>
+    <array name="ant_lt_thigh">
+        <item>ant_lt_thigh</item>
+        <item>@drawable/ant_lt_thigh</item>
+        <item>@array/ant_lt_thigh_rect</item>
+        <item>@array/ant_lt_thigh_surface_area</item>
+    </array>
+    <array name="ant_rt_thigh">
+        <item>ant_rt_thigh</item>
+        <item>@drawable/ant_rt_thigh</item>
+        <item>@array/ant_rt_thigh_rect</item>
+        <item>@array/ant_rt_thigh_surface_area</item>
+    </array>
+    <array name="post_rt_leg">
+        <item>post_rt_leg</item>
+        <item>@drawable/post_rt_leg</item>
+        <item>@array/post_rt_leg_rect</item>
+        <item>@array/post_rt_leg_surface_area</item>
+    </array>
+    <array name="post_lt_leg">
+        <item>post_lt_leg</item>
+        <item>@drawable/post_lt_leg</item>
+        <item>@array/post_lt_leg_rect</item>
+        <item>@array/post_lt_leg_surface_area</item>
+    </array>
+    <array name="ant_lt_leg">
+        <item>ant_lt_leg</item>
+        <item>@drawable/ant_lt_leg</item>
+        <item>@array/ant_lt_leg_rect</item>
+        <item>@array/ant_lt_leg_surface_area</item>
+    </array>
+    <array name="ant_rt_leg">
+        <item>ant_rt_leg</item>
+        <item>@drawable/ant_rt_leg</item>
+        <item>@array/ant_rt_leg_rect</item>
+        <item>@array/ant_rt_leg_surface_area</item>
+    </array>
+    <array name="post_rt_foot">
+        <item>post_rt_foot</item>
+        <item>@drawable/post_rt_foot</item>
+        <item>@array/post_rt_foot_rect</item>
+        <item>@array/post_rt_foot_surface_area</item>
+    </array>
+    <array name="post_lt_foot">
+        <item>post_lt_foot</item>
+        <item>@drawable/post_lt_foot</item>
+        <item>@array/post_lt_foot_rect</item>
+        <item>@array/post_lt_foot_surface_area</item>
+    </array>
+    <array name="ant_lt_foot">
+        <item>ant_lt_foot</item>
+        <item>@drawable/ant_lt_foot</item>
+        <item>@array/ant_lt_foot_rect</item>
+        <item>@array/ant_lt_foot_surface_area</item>
+    </array>
+    <array name="ant_rt_foot">
+        <item>ant_rt_foot</item>
+        <item>@drawable/ant_rt_foot</item>
+        <item>@array/ant_rt_foot_rect</item>
+        <item>@array/ant_rt_foot_surface_area</item>
+    </array>
+</resources>

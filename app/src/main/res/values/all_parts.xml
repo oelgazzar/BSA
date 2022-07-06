@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="all_parts" >
+        <item>@array/ant_head</item>
+        <item>@array/post_head</item>
+        <item>@array/ant_neck</item>
+        <item>@array/post_neck</item>
+        <item>@array/abdomen</item>
+        <item>@array/chest</item>
+        <item>@array/upper_back</item>
+        <item>@array/lower_back</item>
+        <item>@array/perineum</item>
+        <item>@array/lt_buttock</item>
+        <item>@array/rt_buttock</item>
+        <item>@array/post_lt_arm</item>
+        <item>@array/post_rt_arm</item>
+        <item>@array/ant_lt_arm</item>
+        <item>@array/ant_rt_arm</item>
+        <item>@array/ant_rt_forearm</item>
+        <item>@array/post_lt_forearm</item>
+        <item>@array/post_rt_forearm</item>
+        <item>@array/ant_lt_forearm</item>
+        <item>@array/ant_lt_hand</item>
+        <item>@array/post_lt_hand</item>
+        <item>@array/post_rt_hand</item>
+        <item>@array/ant_rt_hand</item>
+        <item>@array/post_rt_thigh</item>
+        <item>@array/post_lt_thigh</item>
+        <item>@array/ant_lt_thigh</item>
+        <item>@array/ant_rt_thigh</item>
+        <item>@array/post_rt_leg</item>
+        <item>@array/post_lt_leg</item>
+        <item>@array/ant_lt_leg</item>
+        <item>@array/ant_rt_leg</item>
+        <item>@array/post_rt_foot</item>
+        <item>@array/post_lt_foot</item>
+        <item>@array/ant_lt_foot</item>
+        <item>@array/ant_rt_foot</item>
+    </array>
+</resources>

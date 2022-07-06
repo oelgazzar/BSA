@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BSA</string>
+    <string name="surface_area">%.0f %%</string>
+</resources>
